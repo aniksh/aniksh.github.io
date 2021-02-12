@@ -8,10 +8,10 @@ profile:
   align: right
   image: avatar.jpg
   address: >
-    <p>Lally 01A</p>
+    <!-- <p>Lally 01A</p>
     <p>Rensselaer Polytechnic Institute</p>
     <p>110 8th Street</p>
-    <p>Troy, NY 12180</p>
+    <p>Troy, NY 12180</p> -->
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
