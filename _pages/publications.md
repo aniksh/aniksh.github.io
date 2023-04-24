@@ -17,16 +17,16 @@ years: [2021, 2022]
 </style>
 
 <!-- <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
-</div>
-
-<div class="jumbotron">
 ### Refereed journal articles
 {% bibliography --query @article %}
 </div> -->
 
 <div class="jumbotron">
-<!-- ### Conference Proceedings -->
+<!-- ### Conference proceedings -->
 {% bibliography --query @inproceedings %}
+</div>
+
+<div class="jumbotron">
+### Preprints
+{% bibliography --query @unpublished %}
 </div>

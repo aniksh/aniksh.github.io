@@ -5,8 +5,7 @@
   abbr={DI@KDD},
   title={Position Masking for Improved Layout-Aware Document Understanding},
   author={Saha, Anik and Finegan-Dollak, Catherine and Verma, Ashish},
-  journal={arXiv preprint arXiv:2109.00442},
-  booktitle={Document Intelligence Workshop at KDD},
+  booktitle={Document Intelligence Workshop at KDD 2021},
   arxiv={2109.00442},
   pdf={https://document-intelligence.github.io/DI-2021/files/di-2021_final_21.pdf},
   slides={https://document-intelligence.github.io/DI-2021/files/di-2021_slides_21.pptx},
@@ -39,4 +38,16 @@
   abstract={Causal information extraction is an important task in natural language processing, particularly in finance domain. In this work, we develop several information extraction models using pre-trained transformer-based language models for identifying cause and effect text spans from financial documents. We use FinCausal 2021 and 2022 data sets to train span-based and sequence tagging models. Our ensemble of sequence tagging models based on the RoBERTa-Large pre-trained language model achieves an F1 score of 94.70 with Exact Match score of 85.85 and obtains the 1st place in the FinCausal 2022 competition.}
 }
 
+
+@unpublished{saha2023word,
+      title={Word Sense Induction with Knowledge Distillation from BERT}, 
+      author={Saha, Anik and Gittens, Alex and Yener, Bulent},
+      journal={arXiv preprint arXiv:2109.00442},
+      year={2023},
+      eprint={2304.10642},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      file={saha2023word.pdf},
+      abstract={Pre-trained contextual language models are ubiquitously employed for language understanding tasks, but are unsuitable for resource-constrained systems. Noncontextual word embeddings are an efficient alternative in these settings. Such methods typically use one vector to encode multiple different meanings of a word, and incur errors due to polysemy. This paper proposes a two-stage method to distill multiple word senses from a pre-trained language model (BERT) by using attention over the senses of a word in a context and transferring this sense information to fit multi-sense embeddings in a skip-gram-like framework. We demonstrate an effective approach to training the sense disambiguation mechanism in our model with a distribution over word senses extracted from the output layer embeddings of BERT. Experiments on the contextual word similarity and sense induction tasks show that this method is superior to or competitive with state-of-the-art multi-sense embeddings on multiple benchmark data sets, and experiments with an embedding-based topic model (ETM) demonstrates the benefits of using this multi-sense embedding in a downstream application.}
+}
 
