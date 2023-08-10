@@ -25,7 +25,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 </div>
 <br/> -->
 
-### About me
+<!-- ### About me
 
-I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} in 2015 with a B.Sc. in Electrical and Electronic Engineering. I was a Lecturer at [Daffodil International University](https://daffodilvarsity.edu.bd){:target="\_blank"} for one semester before joining [Semion Inc.](http://semion.ai){:target="\_blank"} in 2016. In Semion, my work on sentiment analysis using deep learning started my journey in Natural Language Processing.
+I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} in 2015 with a B.Sc. in Electrical and Electronic Engineering. I was a Lecturer at [Daffodil International University](https://daffodilvarsity.edu.bd){:target="\_blank"} for one semester before joining [Semion Inc.](http://semion.ai){:target="\_blank"} in 2016. In Semion, my work on sentiment analysis using deep learning started my journey in Natural Language Processing. -->
 
