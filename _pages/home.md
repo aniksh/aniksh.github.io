@@ -7,7 +7,8 @@ permalink: /
 
 ### Welcome!
 
-I am a Graduate student in Electrical Engineering at Rensselaer Polytechnic Institute. I am interested in Natural Language Processing and Machine Learning. My research is guided by Professor [Bülent Yener](http://www.cs.rpi.edu/~yener/){:target="\_blank"} and Professor [Alex Gittens](http://www.cs.rpi.edu/~gittea/){:target="\_blank"} in the Computer Science department.  
+I am a Graduate student at Rensselaer Polytechnic Institute with expertise in Natural Language Processing and Machine Learning. I have experience training and fine-tuning large language models like BERT and GPT for domain adaptation and information extraction from text and structured documents in low resource settings.
+<!-- My research is guided by Professor [Bülent Yener](http://www.cs.rpi.edu/~yener/){:target="\_blank"} and Professor [Alex Gittens](http://www.cs.rpi.edu/~gittea/){:target="\_blank"} in the Computer Science department.   -->
 
 *Research Overview*  
 My current focus is on domain adaptation of neural models for causal information extraction. I am working on unsupervised domain adaptation for extraction of cause and effect spans from text. I am exploring the idea of integrating domain independent linguistic information in neural models to improve adversarial domain adaptation methods. I have also worked on multi-sense embeddings to address the meaning conflation problem in word embeddings since they encode different meanings of a word into a single vector. We distilled the contextual information from pre-trained language models to train multi-sense embeddings with the appropriate meaning. I have also explored the application of simple word embeddings in semantic search. During my internship at IBM, I worked on information extraction from structured documents such as scanned images, pdfs etc. 
