@@ -51,3 +51,29 @@
       abstract={Pre-trained contextual language models are ubiquitously employed for language understanding tasks, but are unsuitable for resource-constrained systems. Noncontextual word embeddings are an efficient alternative in these settings. Such methods typically use one vector to encode multiple different meanings of a word, and incur errors due to polysemy. This paper proposes a two-stage method to distill multiple word senses from a pre-trained language model (BERT) by using attention over the senses of a word in a context and transferring this sense information to fit multi-sense embeddings in a skip-gram-like framework. We demonstrate an effective approach to training the sense disambiguation mechanism in our model with a distribution over word senses extracted from the output layer embeddings of BERT. Experiments on the contextual word similarity and sense induction tasks show that this method is superior to or competitive with state-of-the-art multi-sense embeddings on multiple benchmark data sets, and experiments with an embedding-based topic model (ETM) demonstrates the benefits of using this multi-sense embedding in a downstream application.}
 }
 
+
+@unpublished{saha2023crossdomain,
+      title={A Cross-Domain Evaluation of Approaches for Causal Knowledge Extraction}, 
+      author={Anik Saha and Oktie Hassanzadeh and Alex Gittens and Jian Ni and Kavitha Srinivas and Bulent Yener},
+      journal={arXiv preprint arXiv:2308.03891},
+      year={2023},
+      eprint={2308.03891},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      file={saha2023crossdomain.pdf},
+      abstract={Causal knowledge extraction is the task of extracting relevant causes and effects from text by detecting the causal relation. Although this task is important for language understanding and knowledge discovery, recent works in this domain have largely focused on binary classification of a text segment as causal or non-causal. In this regard, we perform a thorough analysis of three sequence tagging models for causal knowledge extraction and compare it with a span based approach to causality extraction. Our experiments show that embeddings from pre-trained language models (e.g. BERT) provide a significant performance boost on this task compared to previous state-of-the-art models with complex architectures. We observe that span based models perform better than simple sequence tagging models based on BERT across all 4 data sets from diverse domains with different types of cause-effect phrases.}
+}
+
+
+@unpublished{saha2023improving,
+      title={Improving Neural Ranking Models with Traditional IR Methods}, 
+      author={Anik Saha and Oktie Hassanzadeh and Alex Gittens and Jian Ni and Kavitha Srinivas and Bulent Yener},
+      journal={arXiv preprint arXiv:2308.15027},
+      year={2023},
+      eprint={2308.15027},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      file={saha2023improving.pdf},
+      abstract={Neural ranking methods based on large transformer models have recently gained significant attention in the information retrieval community, and have been adopted by major commercial solutions. Nevertheless, they are computationally expensive to create, and require a great deal of labeled data for specialized corpora. In this paper, we explore a low resource alternative which is a bag-of-embedding model for document retrieval and find that it is competitive with large transformer models fine tuned on information retrieval tasks. Our results show that a simple combination of TF-IDF, a traditional keyword matching method, with a shallow embedding model provides a low cost path to compete well with the performance of complex neural ranking models on 3 datasets. Furthermore, adding TF-IDF measures improves the performance of large-scale fine tuned models on these tasks.}
+}
+
