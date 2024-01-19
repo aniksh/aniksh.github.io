@@ -13,12 +13,9 @@ url: ""
 # Footer info
 affiliation: >
     Anik Saha<br/>
-    Graduate Student<br/>
-    Rensselaer Polytechnic Institute
+    AI Engineer
 
 location: >
-  Rensselaer Polytechnic Institute<br/>
-  110 8th St<br/>
   Troy, NY 12180
 
 contact: >
@@ -27,7 +24,7 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  # - name: about
+  - name: about
   - name: publications
   # - name: talks
   # - name: research
