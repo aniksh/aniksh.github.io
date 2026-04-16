@@ -15,7 +15,6 @@ I develop deep learning models for 3D medical images at [ImmersiveTouch](https:/
 
 In my current role, I train segmentation models for different anatomical structures in CT scans. These segmentations are used to create 3D models of relevant organs for surgical planning. I have also developed landmark detection models for head CT scans. 
 Before this, I did research on topics in representation learning, efficient models and information extraction. I have worked on domain adaptation of neural models for causal information extraction. 
-<!-- Integrating domain independent linguistic information in neural models led to improvement in adversarial domain adaptation methods.  -->
 I have also worked on multi-sense embeddings to address the meaning conflation problem in word embeddings. In this project, I implemented a knowledge distillation method to transfer the contextual information from pre-trained language models into multi-sense embeddings. 
 During my internship at IBM Research, I worked on information extraction from structured documents such as scanned images, pdfs etc. 
 
