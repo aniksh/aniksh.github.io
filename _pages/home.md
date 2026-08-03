@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-I am an incoming PhD student in Computer Science at University of Tennessee, Knoxville. I develop deep learning models for 3D medical images at [ImmersiveTouch](https://www.immersivetouch.com){:target="\_blank"}. Previously, during my graduate studies at [Rensselaer Polytechnic Institute](https://www.rpi.edu){:target="\_blank"}, I worked on Natural Language Processing and Machine Learning. Before that, I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} with a B.Sc. in Electrical and Electronic Engineering.
+I am an incoming PhD student in Computer Science at the University of Tennessee, Knoxville. I develop deep learning models for 3D medical images at [ImmersiveTouch](https://www.immersivetouch.com){:target="\_blank"}. Previously, during my graduate studies at [Rensselaer Polytechnic Institute](https://www.rpi.edu){:target="\_blank"}, I worked on Natural Language Processing and Machine Learning. Before that, I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} with a B.Sc. in Electrical and Electronic Engineering.
 <!-- I have experience training and fine-tuning large language models like BERT and GPT for domain adaptation and information extraction. -->
 <!-- My research is guided by Professor [Bülent Yener](http://www.cs.rpi.edu/~yener/){:target="\_blank"} and Professor [Alex Gittens](http://www.cs.rpi.edu/~gittea/){:target="\_blank"} in the Computer Science department.   -->
 
