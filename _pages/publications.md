@@ -27,7 +27,7 @@ years: [2021, 2022, 2023]
 </div>
 
 <div class="jumbotron">
-<!-- ### Conference proceedings -->
+### Conference and workshop proceedings
 {% bibliography --query @inproceedings %}
 </div>
 
