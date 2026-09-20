@@ -7,17 +7,26 @@ permalink: /
 
 ### Welcome!
 
-I am an incoming PhD student in Computer Science at the University of Tennessee, Knoxville. I develop deep learning models for 3D medical images at [ImmersiveTouch](https://www.immersivetouch.com){:target="\_blank"}. Previously, during my graduate studies at [Rensselaer Polytechnic Institute](https://www.rpi.edu){:target="\_blank"}, I worked on Natural Language Processing and Machine Learning. Before that, I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} with a B.Sc. in Electrical and Electronic Engineering.
-<!-- I have experience training and fine-tuning large language models like BERT and GPT for domain adaptation and information extraction. -->
-<!-- My research is guided by Professor [Bülent Yener](http://www.cs.rpi.edu/~yener/){:target="\_blank"} and Professor [Alex Gittens](http://www.cs.rpi.edu/~gittea/){:target="\_blank"} in the Computer Science department.   -->
+I am a PhD student in Computer Science at the [University of Tennessee, Knoxville](https://eecs.utk.edu/){:target="\_blank"} under the guidance of [Prof. Dongsheng Ding](https://dongshed.github.io/){:target="\_blank"}. Previously, I developed deep learning models for 3D medical images at [ImmersiveTouch](https://www.immersivetouch.com){:target="\_blank"}. During my graduate studies at [Rensselaer Polytechnic Institute](https://www.rpi.edu){:target="\_blank"}, I worked on Natural Language Processing and Machine Learning. Before that, I graduated from [Bangladesh University of Engineering and Technology](http://www.buet.ac.bd){:target="\_blank"} with a B.Sc. in Electrical and Electronic Engineering.
 
 <!-- *Overview* -->
 
-In my current role, I train segmentation models for different anatomical structures in CT scans. These segmentations are used to create 3D models of relevant organs for surgical planning. I have also developed landmark detection models for head CT scans. 
-Before this, I did research on topics in representation learning, efficient models and information extraction. I have worked on domain adaptation of neural models for causal information extraction. 
-I have also worked on multi-sense embeddings to address the meaning conflation problem in word embeddings. In this project, I implemented a knowledge distillation method to transfer the contextual information from pre-trained language models into multi-sense embeddings. 
-During my internship at IBM Research, I worked on information extraction from structured documents such as scanned images, pdfs etc. 
+#### Current Research
 
+My research lies at the intersection of **generative models, constrained optimization, and representation learning**. Specifically, I study constrained optimization methods for controlling diffusion models — enforcing desired behaviors and suppressing unwanted ones — so that guidance weights are derived in a principled, interpretable way rather than tuned by hand.
+
+#### Past Experience
+
+**ImmersiveTouch: 3D Medical Imaging**  
+I worked on segmentation and landmark detection models for CT scans, developing methods to automatically delineate anatomical structures and generate 3D reconstructions of organs to support surgical planning.
+
+**Rensselaer Polytechnic Institute: NLP & Representation Learning**  
+I explored problems in representation learning, model efficiency, and information extraction from text:
+- **Domain adaptation for causal information extraction** - studying how neural models trained on one domain could generalize to extract causal relations in another.
+- **Multi-sense word embeddings** -  addressing the meaning conflation problem in traditional word embeddings, including a knowledge distillation approach to transfer contextual information from large pre-trained language models into multi-sense embedding spaces.
+
+**IBM Research Internships**  
+I worked on information extraction from structured documents, including scanned images and PDFs, contributing to systems for automated document understanding.
 
 <!-- <div class="container">
 <div class="row">
