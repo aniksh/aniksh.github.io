@@ -13,7 +13,7 @@ I am a PhD student in Computer Science at the [University of Tennessee, Knoxvill
 
 #### Current Research
 
-My research lies at the intersection of **generative models, constrained optimization, and representation learning**. Specifically, I study constrained optimization methods for controlling diffusion models — enforcing desired behaviors and suppressing unwanted ones — so that guidance weights are derived in a principled, interpretable way rather than tuned by hand.
+I work on making generative models more controllable and predictable My research lies at the intersection of **generative models, constrained optimization, and representation learning**. Specifically, I study constrained optimization methods for controlling diffusion models, enforcing desired behaviors and suppressing unwanted ones, so that guidance weights are derived in a principled, interpretable way rather than tuned by hand.
 
 #### Past Experience
 
